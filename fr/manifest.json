@@ -1,199 +1,31 @@
 {
-  "setName": "SV01",
-  "setID": "sv01",
+  "setName": "Écarlate et Violet",
+  "setID": "svi",
   "setReleaseDate": "2023-03-31",
   "cards": [
-    {
-      "cardID": "199",
-      "cardName": "Tissenboule",
-      "pokemonName_en": "Tissenboule",
-      "rarity": "IR",
-      "pokedexNumber": 917,
-      "cardIllustrator": "Miki Tanaka"
-    },
-    {
-      "cardID": "200",
-      "cardName": "Olivado",
-      "pokemonName_en": "Olivado",
-      "rarity": "IR",
-      "pokedexNumber": 929,
-      "cardIllustrator": "Oswaldo KATO"
-    },
-    {
-      "cardID": "201",
-      "cardName": "Terracool",
-      "pokemonName_en": "Terracool",
-      "rarity": "IR",
-      "pokedexNumber": 948,
-      "cardIllustrator": "Akira Komayama"
-    },
-    {
-      "cardID": "202",
-      "cardName": "Scovilain",
-      "pokemonName_en": "Scovilain",
-      "rarity": "IR",
-      "pokedexNumber": 952,
-      "cardIllustrator": "KIYOTAKA OSHIYAMA"
-    },
-    {
-      "cardID": "203",
-      "cardName": "Carmadura",
-      "pokemonName_en": "Carmadura",
-      "rarity": "IR",
-      "pokedexNumber": 936,
-      "cardIllustrator": "nagimiso"
-    },
-    {
-      "cardID": "204",
-      "cardName": "Ramoloss",
-      "pokemonName_en": "Ramoloss",
-      "rarity": "IR",
-      "pokedexNumber": 79,
-      "cardIllustrator": "Toshinao Aoki"
-    },
-    {
-      "cardID": "205",
-      "cardName": "Flingouste",
-      "pokemonName_en": "Flingouste",
-      "rarity": "IR",
-      "pokedexNumber": 692,
-      "cardIllustrator": "Shinya Komatsu"
-    },
-    {
-      "cardID": "206",
-      "cardName": "Taupikeau",
-      "pokemonName_en": "Taupikeau",
-      "rarity": "IR",
-      "pokedexNumber": 960,
-      "cardIllustrator": "You Iribi"
-    },
-    {
-      "cardID": "207",
-      "cardName": "Oyacata",
-      "pokemonName_en": "Oyacata",
-      "rarity": "IR",
-      "pokedexNumber": 977,
-      "cardIllustrator": "AKIRA EGAWA"
-    },
-    {
-      "cardID": "208",
-      "cardName": "Pachirisu",
-      "pokemonName_en": "Pachirisu",
-      "rarity": "IR",
-      "pokedexNumber": 417,
-      "cardIllustrator": "zig"
-    },
-    {
-      "cardID": "209",
-      "cardName": "Pohmarmotte",
-      "pokemonName_en": "Pohmarmotte",
-      "rarity": "IR",
-      "pokedexNumber": 923,
-      "cardIllustrator": "Kouki Saitou"
-    },
-    {
-      "cardID": "210",
-      "cardName": "Soporifik",
-      "pokemonName_en": "Soporifik",
-      "rarity": "IR",
-      "pokedexNumber": 96,
-      "cardIllustrator": "Tomokazu Komiya"
-    },
-    {
-      "cardID": "211",
-      "cardName": "Tarsal",
-      "pokemonName_en": "Tarsal",
-      "rarity": "IR",
-      "pokedexNumber": 280,
-      "cardIllustrator": "Jiro Sasumo"
-    },
-    {
-      "cardID": "212",
-      "cardName": "Kirlia",
-      "pokemonName_en": "Kirlia",
-      "rarity": "IR",
-      "pokedexNumber": 281,
-      "cardIllustrator": "Jiro Sasumo"
-    },
-    {
-      "cardID": "213",
-      "cardName": "Pâtachiot",
-      "pokemonName_en": "Pâtachiot",
-      "rarity": "IR",
-      "pokedexNumber": 926,
-      "cardIllustrator": "Tika Matsuno"
-    },
-    {
-      "cardID": "214",
-      "cardName": "Toutombe",
-      "pokemonName_en": "Toutombe",
-      "rarity": "IR",
-      "pokedexNumber": 971,
-      "cardIllustrator": "sowsow"
-    },
-    {
-      "cardID": "215",
-      "cardName": "Riolu",
-      "pokemonName_en": "Riolu",
-      "rarity": "IR",
-      "pokedexNumber": 447,
-      "cardIllustrator": "Nelnal"
-    },
-    {
-      "cardID": "216",
-      "cardName": "Mascaïman",
-      "pokemonName_en": "Mascaïman",
-      "rarity": "IR",
-      "pokedexNumber": 551,
-      "cardIllustrator": "Nurikabe"
-    },
-    {
-      "cardID": "217",
-      "cardName": "Craparoi",
-      "pokemonName_en": "Craparoi",
-      "rarity": "IR",
-      "pokedexNumber": 950,
-      "cardIllustrator": "Mina Nakai"
-    },
-    {
-      "cardID": "218",
-      "cardName": "Dogrino",
-      "pokemonName_en": "Dogrino",
-      "rarity": "IR",
-      "pokedexNumber": 943,
-      "cardIllustrator": "OKACHEKE"
-    },
-    {
-      "cardID": "219",
-      "cardName": "Lestombaile",
-      "pokemonName_en": "Lestombaile",
-      "rarity": "IR",
-      "pokedexNumber": 962,
-      "cardIllustrator": "Shibuzoh."
-    },
-    {
-      "cardID": "220",
-      "cardName": "Scalpereur",
-      "pokemonName_en": "Scalpereur",
-      "rarity": "IR",
-      "pokedexNumber": 983,
-      "cardIllustrator": "Shin Nagasawa"
-    },
-    {
-      "cardID": "221",
-      "cardName": "Étourmi",
-      "pokemonName_en": "Étourmi",
-      "rarity": "IR",
-      "pokedexNumber": 396,
-      "cardIllustrator": "saino misaki"
-    },
-    {
-      "cardID": "222",
-      "cardName": "Rongourmand",
-      "pokemonName_en": "Rongourmand",
-      "rarity": "IR",
-      "pokedexNumber": 819,
-      "cardIllustrator": "Teeziro"
-    }
+    { "cardID": "199", "cardName": "Tissenboule", "pokemonName_en": "Tarountula", "rarity": "IR", "pokedexNumber": 917, "cardIllustrator": "Miki Tanaka" },
+    { "cardID": "200", "cardName": "Olivado", "pokemonName_en": "Dolliv", "rarity": "IR", "pokedexNumber": 929, "cardIllustrator": "Oswaldo KATO" },
+    { "cardID": "201", "cardName": "Terracool", "pokemonName_en": "Toedscool", "rarity": "IR", "pokedexNumber": 948, "cardIllustrator": "Akira Komayama" },
+    { "cardID": "202", "cardName": "Scovilain", "pokemonName_en": "Scovillain", "rarity": "IR", "pokedexNumber": 952, "cardIllustrator": "KIYOTAKA OSHIYAMA" },
+    { "cardID": "203", "cardName": "Carmadura", "pokemonName_en": "Armarouge", "rarity": "IR", "pokedexNumber": 936, "cardIllustrator": "nagimiso" },
+    { "cardID": "204", "cardName": "Ramoloss", "pokemonName_en": "Slowpoke", "rarity": "IR", "pokedexNumber": 79, "cardIllustrator": "Toshinao Aoki" },
+    { "cardID": "205", "cardName": "Flingouste", "pokemonName_en": "Clauncher", "rarity": "IR", "pokedexNumber": 692, "cardIllustrator": "Shinya Komatsu" },
+    { "cardID": "206", "cardName": "Taupikeau", "pokemonName_en": "Wiglett", "rarity": "IR", "pokedexNumber": 960, "cardIllustrator": "You Iribi" },
+    { "cardID": "207", "cardName": "Oyacata", "pokemonName_en": "Dondozo", "rarity": "IR", "pokedexNumber": 977, "cardIllustrator": "AKIRA EGAWA" },
+    { "cardID": "208", "cardName": "Pachirisu", "pokemonName_en": "Pachirisu", "rarity": "IR", "pokedexNumber": 417, "cardIllustrator": "zig" },
+    { "cardID": "209", "cardName": "Pohmarmotte", "pokemonName_en": "Pawmot", "rarity": "IR", "pokedexNumber": 923, "cardIllustrator": "Kouki Saitou" },
+    { "cardID": "210", "cardName": "Soporifik", "pokemonName_en": "Drowzee", "rarity": "IR", "pokedexNumber": 96, "cardIllustrator": "Tomokazu Komiya" },
+    { "cardID": "211", "cardName": "Tarsal", "pokemonName_en": "Ralts", "rarity": "IR", "pokedexNumber": 280, "cardIllustrator": "Jiro Sasumo" },
+    { "cardID": "212", "cardName": "Kirlia", "pokemonName_en": "Kirlia", "rarity": "IR", "pokedexNumber": 281, "cardIllustrator": "Jiro Sasumo" },
+    { "cardID": "213", "cardName": "Pâtachiot", "pokemonName_en": "Fidough", "rarity": "IR", "pokedexNumber": 926, "cardIllustrator": "Tika Matsuno" },
+    { "cardID": "214", "cardName": "Toutombe", "pokemonName_en": "Greavard", "rarity": "IR", "pokedexNumber": 971, "cardIllustrator": "sowsow" },
+    { "cardID": "215", "cardName": "Riolu", "pokemonName_en": "Riolu", "rarity": "IR", "pokedexNumber": 447, "cardIllustrator": "Nelnal" },
+    { "cardID": "216", "cardName": "Mascaïman", "pokemonName_en": "Sandile", "rarity": "IR", "pokedexNumber": 551, "cardIllustrator": "Nurikabe" },
+    { "cardID": "217", "cardName": "Craparoi", "pokemonName_en": "Klawf", "rarity": "IR", "pokedexNumber": 950, "cardIllustrator": "Mina Nakai" },
+    { "cardID": "218", "cardName": "Dogrino", "pokemonName_en": "Mabosstiff", "rarity": "IR", "pokedexNumber": 943, "cardIllustrator": "OKACHEKE" },
+    { "cardID": "219", "cardName": "Lestombaile", "pokemonName_en": "Bombirdier", "rarity": "IR", "pokedexNumber": 962, "cardIllustrator": "Shibuzoh." },
+    { "cardID": "220", "cardName": "Scalpereur", "pokemonName_en": "Kingambit", "rarity": "IR", "pokedexNumber": 983, "cardIllustrator": "Shin Nagasawa" },
+    { "cardID": "221", "cardName": "Étourmi", "pokemonName_en": "Starly", "rarity": "IR", "pokedexNumber": 396, "cardIllustrator": "saino misaki" },
+    { "cardID": "222", "cardName": "Rongourmand", "pokemonName_en": "Skwovet", "rarity": "IR", "pokedexNumber": 819, "cardIllustrator": "Teeziro" }
   ]
 }
