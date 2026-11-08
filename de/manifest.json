@@ -188,6 +188,24 @@
       "cardIllustrator": "Shin Nagasawa",
       "stamp": "holidayCalendar2015"
     },
+        {
+      "cardID": "220",
+      "cardName": "Gladimperio",
+      "pokemonName_en": "Kingambit",
+      "rarity": "IR",
+      "pokedexNumber": 983,
+      "cardIllustrator": "Shin Nagasawa",
+      "stamp": "setKolektor"
+    },
+            {
+      "cardID": "220",
+      "cardName": "Gladimperio",
+      "pokemonName_en": "Kingambit",
+      "rarity": "IR",
+      "pokedexNumber": 983,
+      "cardIllustrator": "Shin Nagasawa",
+      "error": "noHolo"
+    },
     {
       "cardID": "221",
       "cardName": "Staralili",
